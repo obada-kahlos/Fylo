@@ -1,0 +1,11 @@
+span.error{
+    color : red;
+    /* font-size: 16px; */
+    display: none;
+}
+input:invalid  {
+    border: 1px solid red;
+}
+input:invalid ~ span {
+    display: block;
+}
