@@ -8,11 +8,7 @@ function LandingPage() {
 
 
   return <div>
-          {/* <Feed /> */}
-             <Outlet />
-        {/* <Navbar />
-            <Outlet />
-        <Footer /> */}
+      <Outlet />
   </div>
 }
 

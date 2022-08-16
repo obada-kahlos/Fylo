@@ -70,6 +70,7 @@ function Footer() {
 
 
         </div>
+        <p> CopyRight 2022 by Obada kahlous </p>
   </div>
 }
 
